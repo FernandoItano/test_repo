@@ -3,3 +3,7 @@
 sample = rnorm(1000)
 hist(sample)
 plot(ecdf(sample))
+
+
+plot(sample)
+boxplot(sample)
